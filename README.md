@@ -1,8 +1,8 @@
 # json_payload
 
 
-Dependencies required
+Dependencies required:
 pip install flask
 
-Run the app with
+Run the app with:
 python app.py
