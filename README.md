@@ -5,4 +5,4 @@ Dependencies required:
 pip install flask
 
 Run the app with:
-python app.py
+python json_payload
